@@ -1,0 +1,107 @@
+Modification report
+===================
+
+Added token_loader.py at: token_loader.py
+Replacements performed:
+- Plaintext Telegram token replaced with get_token() calls where found (token not printed).
+- Arabic word 'حقوق' replaced with 'سورس سولو' in files where found.
+- ID-like assignments (variable names containing 'id') replaced with user ID: 7722416548
+
+Modified files:
+- token_loader.py
+- SOLO3/اضف لقائمتي.py
+- SOLO3/audio/zombie.py
+- SOLO3/source/zombie.py
+- SOLO3/source_hem/zombie.py
+- SOLO3/users/FN2_FO_X_BOT/.env
+- SOLO3/users/FN2_FO_X_BOT/zombie.py
+- SOLO3/users/HWARY11_BOT/.env
+- SOLO3/users/HWARY11_BOT/zombie.py
+- SOLO3/users/M_66_Mbot/.env
+- SOLO3/users/M_66_Mbot/zombie.py
+- SOLO3/users/S_HEBLLLV_bot/.env
+- SOLO3/users/S_HEBLLLV_bot/zombie.py
+- SOLO3/users/TM5_5BOT/.env
+- SOLO3/users/TM5_5BOT/zombie.py
+- SOLO3/users/UUTRBOT/.env
+- SOLO3/users/UUTRBOT/zombie.py
+- SOLO3/users/l_lbb_lll_88Bot/.env
+- SOLO3/users/l_lbb_lll_88Bot/zombie.py
+- SOLO3/users/re_czx_bot/.env
+- SOLO3/users/re_czx_bot/zombie.py
+- SOLO3/users/so_sso_bot/.env
+- SOLO3/users/so_sso_bot/zombie.py
+- SOLO3/users/sudaaan_bot/.env
+- SOLO3/users/sudaaan_bot/zombie.py
+
+Additional replacements:
+- Arabic 'فيجا' replaced with 'سولو' in file contents where found.
+- English 'vega' (case-insensitive whole words) replaced with 'SOLO' in file contents where found.
+
+Files modified in this step:
+
+Renamed paths in this step:
+- VeGa3  ->  SOLO3
+- SOLO3/vega  ->  SOLO3/SOLO
+FINAL STEP PERFORMED:
+- Replaced all textual instances of 'Solo'/'vega' with 'SOLO' (case-insensitive).
+- Replaced numeric sequences (5-16 digits) with USER_ID: 7722416548.
+- Removed channel links (t.me, telegram, youtube channel links) where found.
+- Replaced developer-related image URLs on lines mentioning developer keywords with thumbnail: https://i.postimg.cc/P5pryQzT/IMG-20250910-133957-547.jpg
+
+Files modified in this final step:
+- token_loader.py
+- modification_report.txt
+- Solo3/config.json
+- Solo3/اضف لقائمتي.py
+- Solo3/audio/zombie.py
+- Solo3/audio/zombie/zombie.txt
+- Solo3/source/zombie.py
+- Solo3/source_hem/zombie.py
+- Solo3/users/FN2_FO_X_BOT/.env
+- Solo3/users/FN2_FO_X_BOT/group_data.json
+- Solo3/users/FN2_FO_X_BOT/zombie.py
+- Solo3/users/HWARY11_BOT/.env
+- Solo3/users/HWARY11_BOT/chat_locks.json
+- Solo3/users/HWARY11_BOT/group_data.json
+- Solo3/users/HWARY11_BOT/likes.json
+- Solo3/users/HWARY11_BOT/zombie.py
+- Solo3/users/M_66_Mbot/.env
+- Solo3/users/M_66_Mbot/group_data.json
+- Solo3/users/M_66_Mbot/unknown_errors.txt
+- Solo3/users/M_66_Mbot/zombie.py
+- Solo3/users/S_HEBLLLV_bot/.env
+- Solo3/users/S_HEBLLLV_bot/group_data.json
+- Solo3/users/S_HEBLLLV_bot/zombie.py
+- Solo3/users/TM5_5BOT/.env
+- Solo3/users/TM5_5BOT/group_data.json
+- Solo3/users/TM5_5BOT/zombie.py
+- Solo3/users/UUTRBOT/.env
+- Solo3/users/UUTRBOT/zombie.py
+- Solo3/users/l_lbb_lll_88Bot/.env
+- Solo3/users/l_lbb_lll_88Bot/group_data.json
+- Solo3/users/l_lbb_lll_88Bot/likes.json
+- Solo3/users/l_lbb_lll_88Bot/zombie.py
+- Solo3/users/re_czx_bot/.env
+- Solo3/users/re_czx_bot/chat_locks.json
+- Solo3/users/re_czx_bot/group_data.json
+- Solo3/users/re_czx_bot/likes.json
+- Solo3/users/re_czx_bot/zombie.py
+- Solo3/users/so_sso_bot/.env
+- Solo3/users/so_sso_bot/group_data.json
+- Solo3/users/so_sso_bot/unknown_errors.txt
+- Solo3/users/so_sso_bot/zombie.py
+- Solo3/users/sudaaan_bot/.env
+- Solo3/users/sudaaan_bot/group_data.json
+- Solo3/users/sudaaan_bot/likes.json
+- Solo3/users/sudaaan_bot/zombie.py
+- Solo3/Solo/zombie.py
+
+Renamed paths in this final step:
+- Solo3/Solo  ->  Solo3/SOLO
+- Solo3  ->  SOLO3
+FINAL RIGHTS & RUNTIME CONFIG UPDATE:
+- Replaced 159 rights/comment lines with '# All rights reserved to SOLO'.
+- Converted 10 OWNER assignments to environment-driven assignment defaulting to 7722416548.
+- Converted 48 SUDO/ADMIN lists to be parsed from env var SUDO_USERS (defaulting to 7722416548).
+- Removed channel links where found.
