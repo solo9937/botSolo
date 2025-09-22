@@ -1,0 +1,76 @@
+import os
+{
+    "dardasha": {},
+    "mutaharek": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "channel_lock": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "videoo": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "tawgeh": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "photo_lock": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "link_lock": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "mentionn": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "swear_lock": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "sticker_lock": {
+        "-7722416548": [
+            "restrict",
+            "members"
+        ]
+    },
+    "muted_users": {
+        "-7722416548": [
+            7722416548,
+            7722416548,
+            7722416548,
+            7722416548,
+            7722416548
+        ]
+    },
+    "english_lock": {},
+    "emoji_lock": {},
+    "clash_lock": {},
+    "ban_lock": {},
+    "id_lock": [],
+    "id_photo_lock": [],
+    "sorty_lock": [],
+    "promotion_lock": [],
+    "kickme_lock": []
+}
