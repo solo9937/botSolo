@@ -1,0 +1,821 @@
+import os
+{
+    "groups": {
+        "-7722416548": {
+            "title": "♥️لمتنا في قعدتنا🇪🇬 شباب وبنات💘",
+            "total_messages": 188,
+            "total_text_messages": 145,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 42,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "🥂✘𓆩 آلُِترڪي الكارف𓆪✘🚬",
+                    "username": "A_D_3_x",
+                    "messages_count": 23,
+                    "text_messages_count": 15,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 8,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 23,
+                    "weekly_messages": {
+                        "2025-29": 23
+                    },
+                    "monthly_messages": {
+                        "2025-07": 23
+                    },
+                    "active_days": {
+                        "2025-07-24": 23
+                    }
+                },
+                "7722416548": {
+                    "first_name": "كہآرفهہ مہشہحہؤُآر 😉😒",
+                    "username": null,
+                    "messages_count": 3,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 3,
+                    "weekly_messages": {
+                        "2025-29": 3
+                    },
+                    "monthly_messages": {
+                        "2025-07": 3
+                    },
+                    "active_days": {
+                        "2025-07-24": 3
+                    }
+                },
+                "7722416548": {
+                    "first_name": "Snow",
+                    "username": null,
+                    "messages_count": 47,
+                    "text_messages_count": 47,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 47,
+                    "weekly_messages": {
+                        "2025-29": 47
+                    },
+                    "monthly_messages": {
+                        "2025-07": 47
+                    },
+                    "active_days": {
+                        "2025-07-24": 47
+                    }
+                },
+                "7722416548": {
+                    "first_name": "َِ𝑴𝑨𝑵𝑫𝑶 ↬͡₂₀₁₅𝑬𝑳𝑨𝑲𝑨𝑩𝑹",
+                    "username": "NK_Y6",
+                    "messages_count": 101,
+                    "text_messages_count": 67,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 34,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 101,
+                    "weekly_messages": {
+                        "2025-29": 101
+                    },
+                    "monthly_messages": {
+                        "2025-07": 101
+                    },
+                    "active_days": {
+                        "2025-07-24": 101
+                    }
+                },
+                "7722416548": {
+                    "first_name": "꧁🦂🗡Mohamed 🦂Salah 🗡 🦂꧂",
+                    "username": null,
+                    "messages_count": 6,
+                    "text_messages_count": 6,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 6,
+                    "weekly_messages": {
+                        "2025-29": 6
+                    },
+                    "monthly_messages": {
+                        "2025-07": 6
+                    },
+                    "active_days": {
+                        "2025-07-24": 6
+                    }
+                },
+                "7722416548": {
+                    "first_name": "Hamoo.",
+                    "username": "MohamedAhraf1",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "قداوي",
+                    "username": null,
+                    "messages_count": 4,
+                    "text_messages_count": 4,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 4,
+                    "weekly_messages": {
+                        "2025-29": 4
+                    },
+                    "monthly_messages": {
+                        "2025-07": 4
+                    },
+                    "active_days": {
+                        "2025-07-24": 4
+                    }
+                },
+                "7722416548": {
+                    "first_name": "𝗠𝗮𝗵𝗺𝗼𝘂𝗱 𝗚𝗮𝗺𝗮𝗹♡",
+                    "username": "B_108",
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "بّـآآرَ مِـمِـيّزَ 😎🌍",
+            "total_messages": 2,
+            "total_text_messages": 2,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "مبارك",
+                    "username": null,
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "𓆩𓅓 سكرانين ♬ᡃ ⠉⃝𐇰⁠⁠⁠⁠",
+            "total_messages": 7,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": ".𝙆𝙄𝙈𝙊",
+                    "username": "KE_IMO",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 4,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 4,
+                    "weekly_messages": {
+                        "2025-29": 4
+                    },
+                    "monthly_messages": {
+                        "2025-07": 4
+                    },
+                    "active_days": {
+                        "2025-07-24": 4
+                    }
+                },
+                "7722416548": {
+                    "first_name": "✄ᯓ 𝗠𝗔𝗛َِ𝗠𝙊َِ𝙐𝘿َِ𓌗",
+                    "username": "hood_aa1",
+                    "messages_count": 2,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "كۣۗـۙوُكۣۗـۙبۣۗـۙ آلَجۣۗـۙدعۣۗـۙآنۣۗـۙ ❤😎😎",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 1,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "شهاب",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 1,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "معكي يا غزه لحد الموت",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 1,
+            "last_activity": "2025-07-24",
+            "members": {
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 1,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "جروب راغي شباب وبنات🦋🍒",
+            "total_messages": 3,
+            "total_text_messages": 3,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                },
+                "7722416548": {
+                    "first_name": "Mariam 💖🌹",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "جروبات❤رغي❤بنات❤دردشه❤تعارف",
+            "total_messages": 12,
+            "total_text_messages": 11,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "ㅤㅤㅤㅤ",
+                    "username": "T_O_Kl",
+                    "messages_count": 8,
+                    "text_messages_count": 7,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 8,
+                    "weekly_messages": {
+                        "2025-29": 8
+                    },
+                    "monthly_messages": {
+                        "2025-07": 8
+                    },
+                    "active_days": {
+                        "2025-07-24": 8
+                    }
+                },
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "aaaaaaaa",
+                    "username": null,
+                    "messages_count": 3,
+                    "text_messages_count": 3,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 3,
+                    "weekly_messages": {
+                        "2025-29": 3
+                    },
+                    "monthly_messages": {
+                        "2025-07": 3
+                    },
+                    "active_days": {
+                        "2025-07-24": 3
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "💞عہالہم غہزاويہه💞",
+            "total_messages": 68,
+            "total_text_messages": 61,
+            "total_photos": 1,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "غــۥـ℘ـۥــزآ وꪇيــه",
+                    "username": "TK_l2",
+                    "messages_count": 36,
+                    "text_messages_count": 34,
+                    "photos_count": 1,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 36,
+                    "weekly_messages": {
+                        "2025-29": 36
+                    },
+                    "monthly_messages": {
+                        "2025-07": 36
+                    },
+                    "active_days": {
+                        "2025-07-24": 36
+                    }
+                },
+                "7722416548": {
+                    "first_name": "مستشار الحكومه 🦅ۥ⁠⁠⁠ـ꙰⁷¹¹",
+                    "username": "gfdhjjhhh",
+                    "messages_count": 19,
+                    "text_messages_count": 19,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 19,
+                    "weekly_messages": {
+                        "2025-29": 19
+                    },
+                    "monthly_messages": {
+                        "2025-07": 19
+                    },
+                    "active_days": {
+                        "2025-07-24": 19
+                    }
+                },
+                "7722416548": {
+                    "first_name": "تـ⃪ـ⃪ـ⃪ـاجتڪ🩶⑅⃝ۦـم ♡𔖭𔖮",
+                    "username": null,
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                },
+                "7722416548": {
+                    "first_name": "شـٰـُ͢ـُٰـمـٰوُخــ۫͜ـ ࢪدِاعـ๋͜‏ـۂي ⁽🔱₎",
+                    "username": null,
+                    "messages_count": 7,
+                    "text_messages_count": 6,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 7,
+                    "weekly_messages": {
+                        "2025-29": 7
+                    },
+                    "monthly_messages": {
+                        "2025-07": 7
+                    },
+                    "active_days": {
+                        "2025-07-24": 7
+                    }
+                },
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 4,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 4,
+                    "weekly_messages": {
+                        "2025-29": 4
+                    },
+                    "monthly_messages": {
+                        "2025-07": 4
+                    },
+                    "active_days": {
+                        "2025-07-24": 4
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "رغـٰٓيَٰـُـٰٓ آلَٰـُـٰٓشَٰـُـٰٓرقَٰـُـٰٓيَٰـُـٰٓه🪐",
+            "total_messages": 2,
+            "total_text_messages": 2,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "كاريزما",
+                    "username": null,
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "جروب تعارف شباب وبنات 🍷.",
+            "total_messages": 2,
+            "total_text_messages": 2,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "وداد الغامدي",
+                    "username": "ghjjhfdgg",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "هيام الغامدي",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "حً ـكَآيـــــــّتُـــــــنـــــــٌآ🤭🫂💍",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 1,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "باسم",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 1,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "↤ 𓏺♩𝐂 𝐀 𝐅 𝐈 𝐡",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "ً 『♛𝐀𝐒𝐋𝐀𝐍♛』 ٠",
+                    "username": "kl22B",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        }
+    }
+}
