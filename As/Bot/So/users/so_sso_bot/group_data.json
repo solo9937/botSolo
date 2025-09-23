@@ -1,0 +1,229 @@
+import os
+{
+    "groups": {
+        "-7722416548": {
+            "title": "صحبتنا احلى.",
+            "total_messages": 24,
+            "total_text_messages": 23,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "M",
+                    "username": "Moha98567",
+                    "messages_count": 6,
+                    "text_messages_count": 6,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 6,
+                    "weekly_messages": {
+                        "2025-29": 6
+                    },
+                    "monthly_messages": {
+                        "2025-07": 6
+                    },
+                    "active_days": {
+                        "2025-07-24": 6
+                    }
+                },
+                "7722416548": {
+                    "first_name": "بنت أكابر ❤️❤️",
+                    "username": null,
+                    "messages_count": 9,
+                    "text_messages_count": 9,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 9,
+                    "weekly_messages": {
+                        "2025-29": 9
+                    },
+                    "monthly_messages": {
+                        "2025-07": 9
+                    },
+                    "active_days": {
+                        "2025-07-24": 9
+                    }
+                },
+                "7722416548": {
+                    "first_name": "هبةﷲ",
+                    "username": "hepa22",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "Abdullah",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "امــــ𝐴𝑀𝐿ـــــل🦋♡",
+                    "username": null,
+                    "messages_count": 5,
+                    "text_messages_count": 5,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 5,
+                    "weekly_messages": {
+                        "2025-29": 5
+                    },
+                    "monthly_messages": {
+                        "2025-07": 5
+                    },
+                    "active_days": {
+                        "2025-07-24": 5
+                    }
+                },
+                "7722416548": {
+                    "first_name": "𝑵𝑶𝑵𝑨",
+                    "username": "N_o_n_nal",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "تـحـت الانـشـاء❤🦋",
+            "total_messages": 26,
+            "total_text_messages": 22,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 3,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "mohamed Elafifyالشيف👨‍🍳👨‍🍳",
+                    "username": "mohamed_Elafify",
+                    "messages_count": 20,
+                    "text_messages_count": 16,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 3,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 20,
+                    "weekly_messages": {
+                        "2025-29": 20
+                    },
+                    "monthly_messages": {
+                        "2025-07": 20
+                    },
+                    "active_days": {
+                        "2025-07-24": 20
+                    }
+                },
+                "7722416548": {
+                    "first_name": "⧛الســـًـوُيّســـًيّ ׀𝐕Ꮠ͋͢𝐏׀𝙀𝙇𝙇 𝑺𝑾𝑬𝑺𝒀 ⧚",
+                    "username": "SW_esy",
+                    "messages_count": 6,
+                    "text_messages_count": 6,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 6,
+                    "weekly_messages": {
+                        "2025-29": 6
+                    },
+                    "monthly_messages": {
+                        "2025-07": 6
+                    },
+                    "active_days": {
+                        "2025-07-24": 6
+                    }
+                }
+            }
+        }
+    }
+}
