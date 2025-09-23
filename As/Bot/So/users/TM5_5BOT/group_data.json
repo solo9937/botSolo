@@ -1,0 +1,611 @@
+import os
+{
+    "groups": {
+        "-7722416548": {
+            "title": "شـات لـ عـلـي و سـايـكـو🤠 ❤️‍🔥",
+            "total_messages": 182,
+            "total_text_messages": 109,
+            "total_photos": 6,
+            "total_videos": 1,
+            "total_voices": 0,
+            "total_stickers": 65,
+            "total_links": 1,
+            "last_activity": "2025-07-24",
+            "members": {
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 145,
+                    "text_messages_count": 75,
+                    "photos_count": 5,
+                    "videos_count": 1,
+                    "voices_count": 0,
+                    "stickers_count": 64,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 145,
+                    "weekly_messages": {
+                        "2025-29": 145
+                    },
+                    "monthly_messages": {
+                        "2025-07": 145
+                    },
+                    "active_days": {
+                        "2025-07-24": 145
+                    }
+                },
+                "7722416548": {
+                    "first_name": "❤️‍🔥❤️‍🔥",
+                    "username": "Mgeug6",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "﮼𝙆𝙀𝙉𝘼𝙉┊🪫🔝 𓏲ִ.:﮼",
+                    "username": "FSI55",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 1,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "𝗡𝗘𝗬𝗠𝗔𝗥🇧🇷_C⁴",
+                    "username": "R_A_S_X",
+                    "messages_count": 8,
+                    "text_messages_count": 7,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 1,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 8,
+                    "weekly_messages": {
+                        "2025-29": 8
+                    },
+                    "monthly_messages": {
+                        "2025-07": 8
+                    },
+                    "active_days": {
+                        "2025-07-24": 8
+                    }
+                },
+                "7722416548": {
+                    "first_name": "ℍ𝔸𝕊𝕊𝔸ℕ",
+                    "username": "lJl_A2",
+                    "messages_count": 3,
+                    "text_messages_count": 3,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 3,
+                    "weekly_messages": {
+                        "2025-29": 3
+                    },
+                    "monthly_messages": {
+                        "2025-07": 3
+                    },
+                    "active_days": {
+                        "2025-07-24": 3
+                    }
+                },
+                "7722416548": {
+                    "first_name": "C4 روكس",
+                    "username": "QErCl",
+                    "messages_count": 7,
+                    "text_messages_count": 7,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 7,
+                    "weekly_messages": {
+                        "2025-29": 7
+                    },
+                    "monthly_messages": {
+                        "2025-07": 7
+                    },
+                    "active_days": {
+                        "2025-07-24": 7
+                    }
+                },
+                "7722416548": {
+                    "first_name": "الوحوش♕صوفي",
+                    "username": "JB_V0",
+                    "messages_count": 8,
+                    "text_messages_count": 8,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 8,
+                    "weekly_messages": {
+                        "2025-29": 8
+                    },
+                    "monthly_messages": {
+                        "2025-07": 8
+                    },
+                    "active_days": {
+                        "2025-07-24": 8
+                    }
+                },
+                "7722416548": {
+                    "first_name": "الفاخري🇱🇾",
+                    "username": "AAM_E15",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 1,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "توتي",
+                    "username": "A_1_X_D",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "روجر ﴿𝙰𝙱𝙳𝚄𝙻𝙻𝙰𝙷﴾",
+                    "username": "S_at_ro",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "𓆃ًٍَُِّNًٍَُِّT4 ًٍَُِّNًٍَُِّIًٍَُِّMًٍَُِّO 𓆃",
+                    "username": "tnnpi",
+                    "messages_count": 4,
+                    "text_messages_count": 4,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 4,
+                    "weekly_messages": {
+                        "2025-29": 4
+                    },
+                    "monthly_messages": {
+                        "2025-07": 4
+                    },
+                    "active_days": {
+                        "2025-07-24": 4
+                    }
+                },
+                "7722416548": {
+                    "first_name": "『عموري😮‍💨💚.』",
+                    "username": null,
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "المناقشة",
+            "total_messages": 8,
+            "total_text_messages": 4,
+            "total_photos": 4,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 8,
+                    "text_messages_count": 4,
+                    "photos_count": 4,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 8,
+                    "weekly_messages": {
+                        "2025-29": 8
+                    },
+                    "monthly_messages": {
+                        "2025-07": 8
+                    },
+                    "active_days": {
+                        "2025-07-24": 8
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "كروب بطولات بيس",
+            "total_messages": 19,
+            "total_text_messages": 19,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "🥀غـــريـــب🥀",
+                    "username": "m1_244",
+                    "messages_count": 3,
+                    "text_messages_count": 3,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 3,
+                    "weekly_messages": {
+                        "2025-29": 3
+                    },
+                    "monthly_messages": {
+                        "2025-07": 3
+                    },
+                    "active_days": {
+                        "2025-07-24": 3
+                    }
+                },
+                "7722416548": {
+                    "first_name": "زيـكـو||ziko💎",
+                    "username": "jz_z4",
+                    "messages_count": 5,
+                    "text_messages_count": 5,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 5,
+                    "weekly_messages": {
+                        "2025-29": 5
+                    },
+                    "monthly_messages": {
+                        "2025-07": 5
+                    },
+                    "active_days": {
+                        "2025-07-24": 5
+                    }
+                },
+                "7722416548": {
+                    "first_name": "𝖺ᒪ𝖺s𝗁.",
+                    "username": "aeewv",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "MST",
+                    "username": "ms_7_mh",
+                    "messages_count": 2,
+                    "text_messages_count": 2,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 2,
+                    "weekly_messages": {
+                        "2025-29": 2
+                    },
+                    "monthly_messages": {
+                        "2025-07": 2
+                    },
+                    "active_days": {
+                        "2025-07-24": 2
+                    }
+                },
+                "7722416548": {
+                    "first_name": "Waseem",
+                    "username": null,
+                    "messages_count": 3,
+                    "text_messages_count": 3,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 3,
+                    "weekly_messages": {
+                        "2025-29": 3
+                    },
+                    "monthly_messages": {
+                        "2025-07": 3
+                    },
+                    "active_days": {
+                        "2025-07-24": 3
+                    }
+                },
+                "7722416548": {
+                    "first_name": "علي",
+                    "username": "jxj67_jjx",
+                    "messages_count": 5,
+                    "text_messages_count": 5,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 5,
+                    "weekly_messages": {
+                        "2025-29": 5
+                    },
+                    "monthly_messages": {
+                        "2025-07": 5
+                    },
+                    "active_days": {
+                        "2025-07-24": 5
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "𝒔𝒑 | Super",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "⸙𑲭𑲭𑲭𑲭𑲭𑲭𑲭S𖤓๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡P⸙𑲭𑲭𑲭𑲭𑲭𑲭𑲭",
+                    "username": "w4_xw",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "ملوك المنصات",
+            "total_messages": 1,
+            "total_text_messages": 0,
+            "total_photos": 1,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "7722416548": {
+                    "first_name": "Gzgz",
+                    "username": "Eng_ahmed0100",
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 1,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        },
+        "-7722416548": {
+            "title": "♡✌هّـوٌ أّنِتٌـ قُدٍ أّلَأحًرأّر✌♡",
+            "total_messages": 16,
+            "total_text_messages": 1,
+            "total_photos": 0,
+            "total_videos": 0,
+            "total_voices": 0,
+            "total_stickers": 0,
+            "total_links": 0,
+            "last_activity": "2025-07-24",
+            "members": {
+                "unknown": {
+                    "first_name": "مجهول",
+                    "username": null,
+                    "messages_count": 1,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                },
+                "7722416548": {
+                    "first_name": "D’R✨AEYAD",
+                    "username": "idei9091",
+                    "messages_count": 14,
+                    "text_messages_count": 0,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 14,
+                    "weekly_messages": {
+                        "2025-29": 14
+                    },
+                    "monthly_messages": {
+                        "2025-07": 14
+                    },
+                    "active_days": {
+                        "2025-07-24": 14
+                    }
+                },
+                "7722416548": {
+                    "first_name": "أم الحسن𝟖𝟕𝟖🪽.٭",
+                    "username": "zz_14za",
+                    "messages_count": 1,
+                    "text_messages_count": 1,
+                    "photos_count": 0,
+                    "videos_count": 0,
+                    "voices_count": 0,
+                    "stickers_count": 0,
+                    "links_count": 0,
+                    "last_message": "2025-07-24",
+                    "today_messages": 1,
+                    "weekly_messages": {
+                        "2025-29": 1
+                    },
+                    "monthly_messages": {
+                        "2025-07": 1
+                    },
+                    "active_days": {
+                        "2025-07-24": 1
+                    }
+                }
+            }
+        }
+    }
+}
