@@ -1,0 +1,39 @@
+import os
+{
+    "dardasha": {},
+    "mutaharek": {},
+    "channel_lock": {},
+    "videoo": {},
+    "tawgeh": {},
+    "photo_lock": {},
+    "link_lock": {},
+    "mentionn": {},
+    "swear_lock": {
+        "-7722416548": [
+            "restrict",
+            "all"
+        ]
+    },
+    "sticker_lock": {},
+    "muted_users": {
+        "-7722416548": [
+            7722416548,
+            7722416548
+        ],
+        "-7722416548": [
+            7722416548,
+            7722416548,
+            7722416548,
+            7722416548
+        ]
+    },
+    "english_lock": {},
+    "emoji_lock": {},
+    "clash_lock": {},
+    "ban_lock": {},
+    "id_lock": [],
+    "id_photo_lock": [],
+    "sorty_lock": [],
+    "promotion_lock": [],
+    "kickme_lock": []
+}
